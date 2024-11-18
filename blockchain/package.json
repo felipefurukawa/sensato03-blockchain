@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "web3": "^4.15.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
